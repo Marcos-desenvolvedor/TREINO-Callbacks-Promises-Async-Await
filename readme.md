@@ -27,22 +27,34 @@ O foco aqui não é apenas fazer o código funcionar, mas **entender o fluxo**, 
 - Callback Hell
 - Padrão `error-first`
 - Uso correto de `null`
+  
+Promises
 
-### Próximos passos
+O que é uma Promise
 
-- Promises
-- Encadeamento com `.then()` e `.catch()`
-- Refatoração de callbacks para Promises
-- `async / await`
+Estados da Promise (pending, fulfilled, rejected)
 
----
+Uso de .then() e .catch()
+
+Encadeamento de Promises
+
+Consumo de APIs com fetch
+
+Passagem de dados entre .then()
+
+
+Próximos passos
+
+async / await
+
+Refatoração de Promises para async/await`
 
 ## Estrutura do Projeto
 
 ```bash
 📁 estudos-js-async
  ┣ 📄 callbacks.js
- ┣ 📄 promises.js   # (em breve)
+ ┣ 📄 promises.js  
  ┣ 📄 asyncAwait.js # (em breve)
  ┗ 📄 README.md
 ```
