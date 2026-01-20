@@ -145,7 +145,6 @@ function MostarPerfil(Perfil, callback) {
   }, 5000);
 }
 
-
 BuscarUsuario2((idUser) => {
   EncontrarPerfil(idUser, (Perfil) => {
     MostarPerfil(Perfil, (mensagem) => {
