@@ -28,7 +28,6 @@ O foco aqui não é apenas fazer o código funcionar, mas **entender o fluxo**, 
 - Padrão `error-first`
 - Uso correto de `null`
 
-
 ### Promises
 
 - O que é uma Promise
