@@ -53,7 +53,7 @@ O foco aqui não é apenas fazer o código funcionar, mas **entender o fluxo**, 
 📁 estudos-js-async
  ┣ 📄 callbacks.js
  ┣ 📄 promises.js
- ┣ 📄 asyncAwait.js # (em breve)
+ ┣ 📄 asyncAwait.js 
  ┗ 📄 README.md
 ```
 
